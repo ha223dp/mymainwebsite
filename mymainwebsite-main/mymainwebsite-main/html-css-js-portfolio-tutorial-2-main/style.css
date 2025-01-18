@@ -225,7 +225,7 @@ section {
 
 /* BUTTONS */
 
-.btn-container {
+.btn-container, .btn-container1 {
   display: flex;
   justify-content: center;
   gap: 1rem;
@@ -267,7 +267,7 @@ section {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
 
-.btn-container {
+.btn-container, .btn-container1 {
   gap: 1rem;
 }
 
